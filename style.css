@@ -41,4 +41,87 @@ body{
 .donate-today p{
     color: grey;
 }
+.container{
+    position: relative;
+    width: 1200PX;
+    height: 300PX;
+    
+}
+.box{
+    position: relative;
+    width: calc(165px - 10px);
+    height: calc(165px - 10px);
+    box-align: center;
+    background-color: #f8f7f7;
+    float: left;
+    margin: 15px;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 10px;
+}
+.box-left{
+    position: relative;
+    width: calc(165px - 10px);
+    height: calc(165px - 10px);
+    box-align: center;
+    background-color: #f8f7f7;
+    float: left;
+    margin: 15px;
+    margin-top: 16px;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-radius: 10px;
+}
+.box-right{
+    position: relative;
+    width: calc(165px - 10px);
+    height: calc(165px - 10px);
+    box-align: center;
+    background-color: #fce7e7;
+    float: left;
+    margin: 15px;
+    margin-top: 16px;
+    box-sizing: border-box;
+    overflow: hidden;
+    border-color: #eb5c5c;
+    border-radius: 10px;
+    border: 2px solid #f04444;
+}
+.text{
+    text-align: center;
+    color: #777575;
+    margin-top: 60px;
+    font-size: 30px;
+}
+.color{
+    color: #eb5c5c;
+}
+.none{
+    background-color: #eb5c5c;
+    border-color: #eb5c5c;
+}
+.donate-today .container{
+    margin-left: 500px;
+}
+.other-amount{
+    margin-left: 500px;
+    margin-right: 470px;
+}
+.other-amount p{
+    font-size: 20px;
+}
+.other-amount a{
+    font-size: 30px;
+}
+.our-donet-plan{
+    text-align: center;
+    margin-top: 180px;
+}
+.donet h1{
+    font-size: 50px;
+}
+.donet p{
+    color: #948d8d;
+    font-size: 17px;
+}
 
