@@ -197,3 +197,31 @@ body{
     font-size: 20px;
     color: #8b9191;
 }
+.they-need-us{
+    background-color: #81a09d;
+    height: 200px;
+    width:40%;
+    margin-left: 580px;
+}
+input{
+    margin-top: 100px;
+    position: relative;
+    display: inline-block;
+    font-size: 30px;
+    box-sizing: border-box;
+    
+}
+footer{
+    background-color: #000000;
+    height: 180px;
+    text-align: center;
+    color: #f04444;
+}
+footer h1{
+    font-family: Cursive;
+    padding-top: 70px;
+}
+footer p{
+    color: rgb(72, 72, 165);
+}
+
