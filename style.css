@@ -39,6 +39,7 @@ body{
     font-size: 60px;
 }
 .donate-today p{
+    font-size: 20px;
     color: grey;
 }
 .container{
@@ -124,4 +125,75 @@ body{
     color: #948d8d;
     font-size: 17px;
 }
+.food-shelter-education{
+    display: flex;
+    margin-left: 300px;
+    text-align: justify;
+}
+.food-shelter-education h1{
+    font-size: 30px;
+}
+.food-shelter-education p{
+    color: #8b9191;
+}
+.food-for-a-family{
+    height: 260px;
+    width: 25%;
+    border: 1px none;
+    padding: 10px;
+    margin-left: 25px;
+    background-color: #d6e8eb;
+    border-radius: 5px;
+}
 
+.shelter-for-a-family{
+    height: 260px;
+    width: 25%;
+    border: 1px none;
+    padding: 10PX;
+    margin-left: 25px;
+    background-color: rgb(238, 241, 219);
+    border-radius: 5px;
+}
+
+.education-for-a-child{
+    height: 260px;
+    width: 25%;
+    border: 1px none;
+    padding: 10PX; 
+    margin-left: 25px;
+    background-color: rgb(209, 248, 235);
+    border-radius: 5px;
+}
+.lives-depend{
+    display: flex;
+}
+.their-lives{
+    margin-left: 330px;
+}
+.their-lives h1{
+    font-size: 55px;
+}
+.their-lives p{
+    font-size: 20px;
+    color: #8b9191;
+}
+.their-lives-img {
+    margin-left: 200px;
+}
+.their-lives-img img{
+    border-radius: 5%;
+}
+.they-need{
+    display: flex;
+}
+.their-lives-pra{
+    margin-left: 80px;
+}
+.their-lives-pra h1{
+    font-size: 55px;
+}
+.their-lives-pra p{
+    font-size: 20px;
+    color: #8b9191;
+}
